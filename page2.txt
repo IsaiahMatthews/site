@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<header>
+<h1>Resume</h1> 
+   </header> 
+<head>
+    <style>
+        body {
+            background-color: purple;
+        }
+    </style>
+</head>
+<body>
+    <p></p>
+    <p></p>
+    <p></p>
+</body>
+
+
+
+</html>
