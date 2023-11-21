@@ -10,10 +10,16 @@
     </style>
 </head>
 <body>
-    <p></p>
-    <p></p>
-    <p></p>
-</body>
+<h1>Education</h1>
+<p>Hope Academy 2019-2023</p>
+<h1>Work Experience</h1>
+    <p>Truck driver with my grandpa</p> 
+<h1>LeaderShip Experience</h1>
+<p>photographer</p>
+<p>captain of the football team in 8th grade</p>
+<h1>Skills</h1>
+<p>team work, html, responsive web design</p>
+</body> 
 
 
 
